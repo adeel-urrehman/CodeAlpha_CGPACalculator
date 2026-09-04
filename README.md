@@ -1,6 +1,6 @@
 # CGPA Calculator - CodeAlpha Internship Task 1
 
-A simple C++ console program to calculate semester GPA and cumulative CGPA.
+A simple C++ console-based program to calculate semester GPA and cumulative CGPA.
 
 ### Features
 * Calculates GPA for multiple semesters
